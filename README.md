@@ -11,6 +11,7 @@ Mean, Median, and Mode computed manually — no built-in library functions (no `
 - `exp3_mean_median_mode.py` — standalone script
 - `EXP3_MeanMedianMode_16014324020.ipynb` — notebook with output
 - `EXP3_MeanMedianMode_notebook.pdf` — notebook as PDF
+- `Sub_Division_IMD_2017.csv` — dataset
 
 ## Result
 ```
